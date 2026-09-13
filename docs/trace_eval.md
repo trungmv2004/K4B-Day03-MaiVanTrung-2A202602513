@@ -1,6 +1,6 @@
 # 📊 BÁO CÁO THU HOẠCH NGHIỆM THU BÀI LAB 3 (BƯỚC 3 — SUBMISSION ARTIFACT)
 
-> **Họ và Tên Học viên:** [Mai Văn Trugn]  
+> **Họ và Tên Học viên:** [Mai Văn Trung]  
 > **Mã Sinh Viên / Mã Học viên:** [2A202602513]  
 > **Chủ đề Lựa chọn:** [Trợ lý Học vụ & Tra cứu Lịch thi VinUni]  
 
